@@ -47,7 +47,7 @@ The **Titanic Survivor Prediction** project aims to predict the likelihood of pa
 
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn
-- **Machine Learning Models:** Logistic Regression, Random Forest, Decision Tree
+- **Machine Learning Models:** Logistic Regression, Random Forest, Decision Tree, Support Vector Classifier
 
 ## Conclusion
 
